@@ -1,27 +1,19 @@
-# Hi, I'm Nalluri Sanjay 👋
+### Hi, I'm Sanjay
 
-🎓 Third-year undergraduate student in Industrial and Systems Engineering at IIT Kharagpur.
+I study Industrial and Systems Engineering at IIT Kharagpur. Most of my projects are about supply chain and operations problems: forecasting demand, planning stock and staff, designing warehouse networks and routing deliveries.
 
-📊 Aspiring Data Analyst with a strong interest in Data Analytics, Machine Learning, and Business Intelligence. I enjoy transforming data into actionable insights and solving real-world problems using analytical and data-driven approaches.
+**Projects**
 
-💡 My interests lie at the intersection of Analytics, Optimization, and Artificial Intelligence. I am continuously building projects and exploring technologies that help organizations make better decisions through data.
+| Project | What it does | Tools |
+|---|---|---|
+| [Warehouse Demand and Staffing](https://github.com/SanjayNalluri/warehouse-demand-forecast) | Forecasts picking workload and tests staffing plans and shift patterns | Python, LightGBM, SimPy, Arena · [live app](https://warehouse-demand-forecast.vercel.app) |
+| [DeliveryLens](https://github.com/SanjayNalluri/deliverylens-delivery-analytics) | On-time delivery analysis of 96k e-commerce orders | SQL Server, Power BI |
+| [Ops Chat](https://github.com/SanjayNalluri/ops-chat-assistant) | Ask the DeliveryLens data questions in plain English | Python, LLM, FastAPI, React · [live app](https://ops-chat-eight.vercel.app) |
+| [DemandIQ](https://github.com/SanjayNalluri/demandiq-forecasting-inventory) | Demand forecasting and reorder policies for Walmart items | Python, statsmodels, XGBoost |
+| [HubShift India](https://github.com/SanjayNalluri/hubshift-india-network-design) | Warehouse network design after GST | Python, PuLP, Streamlit · [live app](https://india-gst-network.streamlit.app) |
+| [LastMile Delhi](https://github.com/SanjayNalluri/lastmile-delhi-routing) | Truck routing under Delhi's no-entry rules | Python, OR-Tools |
 
-🏆 JEE Advanced AIR 1409
+**Tools I use:** Python (pandas, statsmodels, XGBoost, PuLP, OR-Tools, SimPy), SQL, Power BI, Excel, Rockwell Arena, Git
 
-### Skills
-
-* Programming: Python, C, C++, SQL, JavaScript
-* Web Development: HTML, CSS
-* Data Analytics & Visualization: Power BI, Tableau, Excel
-* Data Science & Machine Learning: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, TensorFlow
-* Tools: Git, GitHub
-
-### Current Focus
-
-* Data Analytics
-* Business Intelligence
-* Machine Learning
-* Data Visualization
-* Optimization & Decision Analytics
-
-📫 Always open to collaborating on analytics, data science, and impactful technology projects.
+Looking for a Summer 2027 internship in supply chain, operations or analytics.
+[LinkedIn](https://www.linkedin.com/in/sanjaynalluri2405/) · sanjaynalluri86@gmail.com
