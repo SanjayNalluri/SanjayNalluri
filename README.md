@@ -2,6 +2,8 @@
 
 I study Industrial and Systems Engineering at IIT Kharagpur. Most of my projects are about supply chain and operations problems: forecasting demand, planning stock and staff, designing warehouse networks and routing deliveries.
 
+JEE Advanced 2024: All India Rank 1409
+
 **Projects**
 
 | Project | What it does | Tools |
@@ -13,7 +15,7 @@ I study Industrial and Systems Engineering at IIT Kharagpur. Most of my projects
 | [HubShift India](https://github.com/SanjayNalluri/hubshift-india-network-design) | Warehouse network design after GST | Python, PuLP, Streamlit · [live app](https://india-gst-network.streamlit.app) |
 | [LastMile Delhi](https://github.com/SanjayNalluri/lastmile-delhi-routing) | Truck routing under Delhi's no-entry rules | Python, OR-Tools |
 
-**Tools I use:** Python (pandas, statsmodels, XGBoost, PuLP, OR-Tools, SimPy), SQL, Power BI, Excel, Rockwell Arena, Git
+**Tools I use:** Python (pandas, statsmodels, XGBoost, PuLP, OR-Tools, SimPy), SQL, Power BI, Excel, PowerPoint, Rockwell Arena, Git
 
 Looking for a Summer 2027 internship in supply chain, operations or analytics.
 [LinkedIn](https://www.linkedin.com/in/sanjaynalluri2405/) · sanjaynalluri86@gmail.com
